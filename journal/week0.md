@@ -3,9 +3,8 @@
 ## Required Home Work
 
 ### Setup IAM Role and credentials
-
 Updating Password
-
+![Updating Password](asset/Password update.png)
 
 
 IAM User Login
